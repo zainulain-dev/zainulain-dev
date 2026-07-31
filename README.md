@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00A651&height=200&section=header&text=Muhammad%20Zain%20Ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Odoo%20Developer%20%7C%20Full-Stack%20Application%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00A651&center=true&vCenter=true&width=650&lines=Odoo+18+ERP+Developer;Python+%7C+JavaScript+Backend+Engineer;Full-Stack+%26+Mobile+App+Builder;Turning+Business+Chaos+into+Clean+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00A651&center=true&vCenter=true&width=650&lines=Odoo+18+ERP+Developer;Python+%7C+JavaScript+Backend+Engineer;Full-Stack+%26+Mobile+App+Builder;Turning+Business+Chaos+into+Clean+Code" alt="Typing SVG" />
 
 <br/>
 
@@ -96,12 +96,12 @@ class ZainUlAin:
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainulain-dev&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=00A651&icon_color=00A651&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulain-dev&layout=compact&theme=dark&hide_border=true&title_color=00A651&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainulain-dev&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=00A651&icon_color=00A651&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" width="49%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulain-dev&layout=compact&theme=dark&hide_border=true&title_color=00A651&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulain-dev&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=zainulain-dev&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651" width="70%"/>
 
 </div>
 
@@ -109,9 +109,21 @@ class ZainUlAin:
 <summary align="center">🏆 <b>GitHub Trophies</b></summary>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zainulain-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zainulain-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" width="100%"/>
 </div>
 </details>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/zainulain-dev/zainulain-dev/output/github-snake-dark.svg" width="100%"/>
+
+<sub>Animates automatically once the Snake GitHub Action below is set up in this repo.</sub>
+
+</div>
 
 <br/>
 
