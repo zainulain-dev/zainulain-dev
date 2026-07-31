@@ -60,34 +60,32 @@ class ZainUlAin:
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🧩 Odoo Custom ERP Module</h3>
-      <p align="center">Custom-built Odoo 18 module extending core ERP functionality with clean, maintainable Python — tailored for real-world business workflows.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Odoo-18-00A651?style=flat-square&logo=odoo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <p align="center"><a href="https://github.com/zainulain-dev/odoo-custom-erp-module"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/zainulain-dev/odoo-custom-erp-module">odoo-custom-erp-module</a></h3>
+      <p>Custom-built Odoo 18 module extending core ERP functionality with clean, maintainable Python — tailored for real-world business workflows.</p>
+      <img src="https://img.shields.io/badge/Odoo-18-00A651?style=flat-square&logo=odoo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎓 EduVerse Flutter App</h3>
-      <p align="center">Full-featured University Management App built with Flutter — handling attendance, results, and student-faculty communication on the go.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-      <p align="center"><a href="https://github.com/zainulain-dev/eduverse-flutter-app"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/zainulain-dev/eduverse-flutter-app">eduverse-flutter-app</a></h3>
+      <p>Full-featured University Management App built with Flutter — handling attendance, results, and student-faculty communication on the go.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🛡️ Cerberus Web Scanner</h3>
-      <p align="center">Python-based web vulnerability scanner that detects common security flaws through automated reconnaissance and scanning.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-Tool-red?style=flat-square&logo=shieldsdotio&logoColor=white"/>
-      </p>
-      <p align="center"><a href="https://github.com/zainulain-dev/cerberus-web-scanner"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/zainulain-dev/cerberus-web-scanner">cerberus-web-scanner</a></h3>
+      <p>Python-based web vulnerability scanner that detects common security flaws through automated reconnaissance and scanning.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Security-Tool-red?style=flat-square&logo=shieldsdotio&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More Coming Soon</h3>
+      <p>Currently building out more Odoo modules and full-stack tools. This space keeps growing — check back soon.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -98,16 +96,12 @@ class ZainUlAin:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainulain-dev&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=00A651&icon_color=00A651&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulain-dev&layout=compact&theme=dark&hide_border=true&title_color=00A651&text_color=c9d1d9&bg_color=0d1117"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainulain-dev&show_icons=true&hide=stars&count_private=true&include_all_commits=true&theme=dark&hide_border=true&title_color=00A651&icon_color=00A651&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainulain-dev&layout=compact&theme=dark&hide_border=true&title_color=00A651&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulain-dev&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainulain-dev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00A651&line=00A651&point=ffffff" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulain-dev&theme=dark&hide_border=true&background=0D1117&ring=00A651&fire=00A651&currStreakLabel=00A651" width="70%"/>
 
 </div>
 
@@ -115,7 +109,7 @@ class ZainUlAin:
 <summary align="center">🏆 <b>GitHub Trophies</b></summary>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zainulain-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zainulain-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
 </div>
 </details>
 
